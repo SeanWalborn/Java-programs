@@ -1,6 +1,4 @@
-// Name: Sean Walborn
-// Lab 2, Problem 1
-// Submission date: 09/07/25
+
 
 package Lab2;
 import java.util.Scanner;
@@ -36,3 +34,4 @@ public class L2P1 {
 		return (naturalNumber % 10) + recursiveSum(naturalNumber / 10);
 	}
 }
+
