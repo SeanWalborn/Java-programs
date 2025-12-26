@@ -1,7 +1,3 @@
-// Name: Sean Walborn
-// Lab 12, Problem 2
-// Submission date: 11/30/25
-
 /*
  *  - demonstrates knowledge and implementation  of tree map
  *  - given an array of strings
@@ -36,3 +32,4 @@ public class L12P2 {
 	        }
 	    }
 }
+
