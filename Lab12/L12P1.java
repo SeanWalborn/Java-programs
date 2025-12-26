@@ -1,7 +1,3 @@
-// Name: Sean Walborn
-// Lab 12, Problem 1
-// Submission date: 11/30/25
-
 /*
  *  - demonstrates knowledge and implementation  of tree set
  *  - given an array of integers
@@ -29,3 +25,4 @@ public class L12P1 {
         System.out.println("Output: " + numSet);
     }
 }
+
