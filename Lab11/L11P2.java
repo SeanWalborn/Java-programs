@@ -1,6 +1,3 @@
-// Name: Sean Walborn
-// Lab 11, Problem 2
-// Submission date: 11/23/25
 
 /*
  *  - demonstrates knowledge and implementation of priority queue
@@ -53,3 +50,4 @@ public class L11P2 {
 		scan.close();		
 	}
 }
+
