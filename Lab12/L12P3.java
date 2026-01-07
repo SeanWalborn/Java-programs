@@ -1,7 +1,3 @@
-// Name: Sean Walborn
-// Lab 12, Problem 3
-// Submission date: 11/30/25
-
 /*
  *  - demonstrates knowledge and implementation  of tree set and listg
  *  - given an array of integers
@@ -70,3 +66,4 @@ public class L12P3 {
 	    return longest;
 	}
 }
+
