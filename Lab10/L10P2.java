@@ -1,8 +1,4 @@
 
-// Name: Sean Walborn
-// Lab 10, Problem 2
-// Submission date: 11/15/25
-
 /*
  *  - demonstrates knowledge and implementation  of max heap
  *  - opens a file from the user and converts each line to an array list
@@ -151,3 +147,4 @@ public class L10P2 {
 	}	
 	
 }
+
