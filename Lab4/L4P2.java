@@ -1,6 +1,3 @@
-// Name: Sean Walborn
-// Lab 4, Problem 2
-// Submission date: 09/29/25
 
 package Lab4;
 
@@ -56,5 +53,6 @@ public class L4P2 {
 		// studentList.printListReverse();
 	}
 }
+
 
 
