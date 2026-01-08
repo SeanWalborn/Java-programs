@@ -1,6 +1,3 @@
-// Name: Sean Walborn
-// Lab 4, Problem 1
-// Submission date: 09/29/25
 
 package Lab4;
 
@@ -19,6 +16,7 @@ public class L4P1 {
 
 	}
 }
+
 
 
 
