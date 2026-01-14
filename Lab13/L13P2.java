@@ -1,6 +1,3 @@
-// Name: Sean Walborn
-// Lab 13, Problem 2
-// Submission date: 11/30/25
 
 package Lab13;
 
@@ -66,3 +63,4 @@ public class L13P2 {
     	scan.close();
 	}
 }
+
