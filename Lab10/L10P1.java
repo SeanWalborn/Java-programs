@@ -1,6 +1,3 @@
-// Name: Sean Walborn
-// Lab 10, Problem 1
-// Submission date: 11/15/25
 
 /*
  *  - demonstrates knowledge and implementation  of max heap
@@ -105,3 +102,4 @@ public class L10P1 {
 	
 	
 }
+
