@@ -1,7 +1,3 @@
-// Name: Sean Walborn
-// Lab 14, Problem 2
-// Submission date: 12/7/25
-
 package Lab14;
 
 import java.util.Scanner;
@@ -77,3 +73,4 @@ public class L14P2 {
 		 }
 	 }
 }
+
