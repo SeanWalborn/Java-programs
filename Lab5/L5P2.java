@@ -1,6 +1,4 @@
-// Name: Sean Walborn
-// Lab 5, Problem 2
-// Submission date: 09/30/25
+
 package Lab5;
 
 import java.util.Scanner;
@@ -96,4 +94,5 @@ public class L5P2 {
 //				System.out.print(s.pop());
 //			}
 //		}
+
 }
