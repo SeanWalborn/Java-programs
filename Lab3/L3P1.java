@@ -1,6 +1,4 @@
-// Name: Sean Walborn
-// Lab 3, Problem 1
-// Submission date: 09/12/25
+
 
 package Lab3;
 
@@ -52,3 +50,4 @@ public class L3P1 {
 		
 	}
 }
+
