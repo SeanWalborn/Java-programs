@@ -1,6 +1,4 @@
-// Name: Sean Walborn
-// Lab 9, Problem 1
-// Submission date: 11/09/25
+
 
 /*
  *  - collect file of numbers from user and create a binary search tree from the numbers 
@@ -219,3 +217,4 @@ public class L9P1 {
 		}
 	}
 }
+
