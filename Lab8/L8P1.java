@@ -1,6 +1,4 @@
-// Name: Sean Walborn
-// Lab 8, Problem 1
-// Submission date: 10/26/25
+
 
 /*
  *  the program reads data from a file and creates a binary tree using a linked list
@@ -243,3 +241,4 @@ public class L8P1 {
 		}
 	}
 }
+
