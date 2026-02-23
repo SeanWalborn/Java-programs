@@ -1,6 +1,3 @@
-// Name: Sean Walborn
-// Lab 6, Problem 2
-// Submission date: 10/04/25
 
 package Lab6;
 
@@ -109,3 +106,4 @@ public class L6P2 {
 		return highPrecedence;
 	} 
 }
+
