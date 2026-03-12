@@ -1,6 +1,4 @@
-// Name: Sean Walborn
-// Lab 1, Problem 2
-// Submission date: 09/05/25
+
 package lab1;
 import java.util.Scanner;
 
@@ -58,4 +56,5 @@ public class L1P2 {
 		
 		scanner.close();
 	}
+
 }
